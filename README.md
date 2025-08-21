@@ -4,4 +4,5 @@ This project aims to **predict blood donor availability** using demographic, med
 -Visualization
 -Data Preprocessing
 -Baseline Model
+![Donation Analytics.png](https://github.com/Faghaee2000/Blood-Donor-Analysis/blob/main/Donation%20Analytics.png)
 
